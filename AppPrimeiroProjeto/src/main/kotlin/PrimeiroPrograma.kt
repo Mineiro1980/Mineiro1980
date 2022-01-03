@@ -4,7 +4,7 @@
 fun main() {
     // Meu primeiro programa
 
-    print("1º Programa em Kotlin... - Meu Usuario GitHub")
+    print("1º Programa em Kotlin... - Alteracao 2")
 
 }
 

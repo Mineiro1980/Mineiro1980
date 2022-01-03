@@ -1,1 +1,0 @@
-/home/ivan/github/Fundamentos-da-Programacao-Kotlin-para-Leigos-IntelliJ/AppPrimeiroProjeto/build/classes/kotlin/main/PrimeiroProgramaKt.class
